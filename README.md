@@ -1,6 +1,6 @@
 # Start-from-the-scratch-IA
 
-This project seeks to promote and facilitate the learning of artificial intelligence.
+Este proyecto busca promover y facilitar el aprendizaje de Inteligencia Artificial.
 
-![INTELIGENCIA ARTIFICIAL](https://user-images.githubusercontent.com/76889417/157799030-dba55b2c-77b4-401a-a180-7c5e766493ec.png)
+![INTELIGENCIA ARTIFICIAL](https://user-images.githubusercontent.com/76889417/157799341-da97f32d-2d21-4fc4-9d34-342ca4e9a9d6.png)
 
