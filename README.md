@@ -2,5 +2,5 @@
 
 Este proyecto busca promover y facilitar el aprendizaje de Inteligencia Artificial.
 
-![INTELIGENCIA ARTIFICIAL](https://user-images.githubusercontent.com/76889417/157799341-da97f32d-2d21-4fc4-9d34-342ca4e9a9d6.png)
+![INTELIGENCIA ARTIFICIAL](https://user-images.githubusercontent.com/76889417/157800045-00001df6-93eb-4752-a36f-bf3738e66258.png)
 
